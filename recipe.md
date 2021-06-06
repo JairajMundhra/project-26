@@ -1,3 +1,3 @@
 ## My Own Pasta:
-cheese pasta
-* salt
+# Mixed Sauce Cheesy Pasta
+
